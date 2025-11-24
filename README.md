@@ -34,6 +34,8 @@ The **Magento SEO Meta Generator API** is a FastAPI-based service that automatic
 - **Web Server**: Uvicorn
 - **Environment Management**: python-dotenv
 
+<img width="1523" height="874" alt="image" src="https://github.com/user-attachments/assets/d3ec07c2-a94c-4998-8e75-30c722f4f14c" />
+
 ---
 
 ## Quick Start
